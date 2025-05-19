@@ -231,6 +231,20 @@ def main():
     library = LibrarySystem()
     
     while True:
+        print("""
+             _      _ _     _             
+            | |    (_) |   (_)            
+            | |     _| |__  _ _ __   __ _ 
+            | |    | | '_ \\| | '_ \\ / _` |
+            | |____| | |_) | | | | | (_| |
+            |______|_|_.__/|_|_| |_|\\__, |
+                 __/ |
+                |___/ 
+        """)
+        print("Copyright © 2025 Wezi.TN")
+        print("Author: Wezi.TN")
+        print("Email: Nyirendawezi2004@gmail.com")
+        print("\n" + "-" * 40 + "\n")
         print("\nLibrary Management System")
         print("1. Add a new book")
         print("2. Check out a book")
